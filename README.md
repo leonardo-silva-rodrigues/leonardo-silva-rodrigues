@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Leonardo Silva Rodrigues
-- 👀 Estou interessado em desenvolvimento preferencialmente utilizando a tecnologia java.
+- 👀 Estou interessado em desenvolvimento.
 - 🌱 Atualmente estou estudando spring boot
 - 📫 Como me alcançar: https://www.linkedin.com/in/leo-silva-rodrigues/
 
