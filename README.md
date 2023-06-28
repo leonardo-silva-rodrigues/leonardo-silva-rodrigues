@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Leonardo Silva Rodrigues
-- 👀 Estou interessado em desenvolvimento.
-- 🌱 Atualmente estou estudando spring boot
+- 🌱 Desenvolvedor Full Stack
+- 📫 C# | .Net | Asp.NET Core | Asp.NET MVC | Vue.js | NodeJS | JavaScript | Typescript
 - 📫 Como me alcançar: https://www.linkedin.com/in/leo-silva-rodrigues/
 
 <!---
